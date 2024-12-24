@@ -9,6 +9,6 @@ This is my website which is an NGO website called KeepITBlue, it focuses on ocea
 
 ![CSS](https://skillicons.dev/icons?i=css) CSS
 
-It contains the following pages: Home, About, Contact, Donate, Projects, and Volunteer. The website can be ruined through VS code or any preffered IDE but let me make it easy for you here is the website domain :   https://keepitblue.netlify.app/  
+It contains the following pages: Home, About, Contact, Donate, Projects, and Volunteer. The website can be excuted through VS code or any preffered IDE but let me make it easy for you here is the website domain :   https://keepitblue.netlify.app/  
 
 
